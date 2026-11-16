@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: delta-doctor
-Version: 0.1.0
-Summary: Diagnose and fix Delta Lake table health issues
-Requires-Dist: deltalake
-Requires-Dist: pyarrow
-Requires-Dist: typer
-Requires-Dist: rich

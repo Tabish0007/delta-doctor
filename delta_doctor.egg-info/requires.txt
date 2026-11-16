@@ -1,4 +1,0 @@
-deltalake
-pyarrow
-typer
-rich
