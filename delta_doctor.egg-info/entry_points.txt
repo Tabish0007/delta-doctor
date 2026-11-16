@@ -1,0 +1,2 @@
+[console_scripts]
+delta-doctor = delta_doctor.cli:app

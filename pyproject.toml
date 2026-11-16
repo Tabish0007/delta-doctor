@@ -1,0 +1,13 @@
+[project]
+name = "delta-doctor"
+version = "0.1.0"
+description = "Diagnose and fix Delta Lake table health issues"
+dependencies = ["deltalake", "pyarrow", "typer", "rich"]
+
+[project.scripts]
+delta-doctor = "delta_doctor.cli:app"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
