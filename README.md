@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-Delta Lake tables break in ways that produce cryptic errors and silent data corruption. `delta-doctor` reads your table's `_delta_log`, checks protocol invariants, and tells you exactly what's wrong — and how to fix it.
+Delta Lake tables break in ways that produce cryptic errors and silent data corruption. `delta-doctor` reads your table's `_delta_log`, checks protocol invariants, and tells you exactly what's wrong and how to fix it.
 
 ---
 
